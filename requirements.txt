@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+openai==0.27.8
+python-multipart==0.0.6
+aiofiles==23.1.0
+google-cloud-translate==3.11.3
+websockets==11.0.3
